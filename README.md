@@ -1,2 +1,2 @@
 # Tetris
-Classical Tetris game in console c#
+Classical Tetris game in console
